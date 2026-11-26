@@ -1,0 +1,83 @@
+# Dirty South Marketing Agency
+
+> Marketing, websites, SEO, and custom apps for businesses in Macon and Warner Robins, Georgia. No ranking promises.
+
+Dirty South Marketing Agency helps Middle Georgia businesses get found, get calls, and grow. It is based in the Macon and Warner Robins area and works with local owners on Google Business Profile, lead-generation ads, social content, websites, on-page SEO, and custom booking and membership apps. Plans are simple and monthly. Clients pay ad platforms, domains, hosting (when it isn’t on a free tier), and app stores directly.
+
+This site does not promise Google rankings, traffic, calls, leads, ad results, app downloads, or app-store approval timing.
+
+## Contact
+
+- Phone: (478) 663-9259
+- Email: dirtysouthmarketingagency@gmail.com
+- Service area: Macon, Warner Robins, Bonaire, Byron, Perry, and Centerville, Georgia
+
+## Official profiles
+
+- Instagram: https://www.instagram.com/dirtysouth.agency/
+- LinkedIn: https://www.linkedin.com/company/dirty-south-marketing-agency/
+
+## Pages
+
+- [Home](https://dirtysouthagency.com/)
+- [Same-day Google Business Profile fix-ups](https://dirtysouthagency.com/google-business-profile/)
+- [Monthly marketing packages](https://dirtysouthagency.com/marketing/)
+- [Websites](https://dirtysouthagency.com/websites/)
+- [Search Growth SEO](https://dirtysouthagency.com/seo/)
+- [Custom booking and membership apps](https://dirtysouthagency.com/apps/)
+
+## Services and prices
+
+Prices below are taken from the public site. Exact figures and terms are confirmed before work starts.
+
+### Same-day Google Business Profile fix-up
+
+- $99–$199, one-time, half up front as a deposit, balance when the work is done. Usually about an hour.
+- Included: photos, hours, a clear description, categories and contact info, a first Google post, and replies to existing reviews.
+- The exact price depends on how much the listing needs and is told before work starts.
+
+### Monthly marketing (3-month minimum, then month to month)
+
+Retainers are billed in advance. Setup fees are due at signing. Ad spend is not included in any package; clients pay Google or Meta directly. Recommended ad spend is at least $750/mo. If spend goes above $3,500/mo, the ads management fee becomes 15% of the amount above $3,500.
+
+- Starter (Local Visibility): $450/mo + $250 one-time setup. Google Business Profile cleanup, matching name, address, and phone across Yelp, BBB, Apple Maps, Bing, and Facebook, 4 GBP posts per month and a monthly photo upload, review-request help and replies, a simple 1-page site or landing page at setup if needed, and a monthly report. No social and no ads.
+- Growth (Starter + Ads): $850/mo + $400 one-time setup. Everything in Starter, plus Google Local Services or Search and Meta ads management, account and campaign build, call tracking, a conversion-focused landing page, weekly tweaks, and a monthly lead report.
+- Full (Starter + Ads + Social): $1,350/mo + $400 one-time setup. Everything in Growth, plus Facebook and Instagram (12 posts a month), 2 short vertical videos a month from phone footage the client supplies, and light replies to comments and DMs during business hours.
+- Social Content (standalone): $600/mo, no setup fee. Facebook and Instagram, 12 posts a month, 2 short vertical videos a month from phone footage the client supplies, and light community management during business hours. Does not include Starter or ads.
+- Lead-Gen Ads (standalone): $500/mo + $300 setup. Ads management as in Growth, without Starter. Ad spend is separate.
+
+### Websites and SEO
+
+Builds promise a working site to the agreed scope, not rankings or leads. Clients pay for the domain and for hosting if the site needs it. Default hosting is a static site on the Cloudflare Pages or Netlify free tier, in the client’s account. WordPress with free plugins on client-paid hosting is available if the client wants to edit pages themselves. Website and app invoices are Net 7.
+
+- Website Essentials: $1,200 one-time, 5 pages, typically 2–3 weeks. Payment: 50% at signing ($600) and 50% at launch ($600). Active Starter clients upgrading from their 1-page site get $150 off ($1,050).
+- Website Pro: $2,400 one-time, up to 12 pages, typically 4–6 weeks. Payment: 40% at signing ($960), 30% at design or homepage approval ($720), and 30% at launch ($720).
+- Website Care: $79/mo, month to month. The first 30 days after launch are free, then 30 days’ notice. Extra edits are $75/hr. Care is included free with Search Growth SEO.
+- Optional website extras: extra page $125; full copywriting $75/page; on-site phone photo session in Macon or Warner Robins (about an hour, edited) $150; change requests outside scope $75/hr, approved in writing first.
+
+### Search Growth SEO
+
+- $550/mo + $300 setup, 3-month minimum, then month to month with 30 days’ notice.
+- Sold on top of Starter, Growth, or Full. Prerequisite: a site that can be edited.
+- The $300 setup is waived if Website Pro was bought in the last 90 days. Extra pages or posts are $125 each.
+- Bundles ($50/mo off the à la carte total; Website Care included free; ad spend stays separate):
+  - Starter + Search Growth: $950/mo, plus $250 Starter setup and $300 SEO setup (unless the SEO setup is waived)
+  - Growth + Search Growth: $1,350/mo, plus setup fees
+  - Full + Search Growth: $1,850/mo, plus setup fees
+- SEO promises the listed monthly work, reported with URLs, not rankings, traffic, calls, or leads.
+
+### Custom booking and membership apps
+
+These tiers promise a working app delivered to the agreed scope, not a number of bookings, members, or revenue, and not app-store approval timing. Clients pay Apple Developer Program ($99/year) and Google Play ($25 one-time) directly, in their name. Stripe processing fees, SMS or email usage, a custom domain, and hosting without a care plan are also paid by the client. New personal Google Play accounts may need a closed test of at least 14 days with at least 12 testers before production access; the client supplies the testers.
+
+- Book & Go: $4,500 fixed, about 5–6 weeks. Payment: 50% at signing ($2,250), 25% on approval of the working test build ($1,125), and 25% at launch ($1,125).
+- Membership Pro: $9,500 fixed, about 9–10 weeks. Payment: 40% at signing ($3,800), 30% on approval of the core build with live test payments ($2,850), and 30% at launch ($2,850). The full App Store Publishing add-on is included.
+- Book & Go → Membership Pro upgrade: $5,500 if upgraded within 6 months of launch.
+- Care Basic: $175/mo for 2 hours of small changes, plus hosting, backups, updates, bug fixes, uptime monitoring, and app-store compliance updates.
+- Care Plus: $325/mo for 5 hours, everything in Basic, a monthly usage and revenue report, 1-business-day priority response, and one small feature per quarter within those hours.
+- Unused care hours don’t roll over. Extra work is $75/hr, quoted before it starts. Care is optional; the client owns the code once it’s paid for.
+- App Store Publishing (full done-for-you listings, privacy forms, submission, and up to 2 resubmissions per store): included with Membership Pro; optional $300 with Book & Go (basic submission is already in that tier); $450 flat as a standalone for an app not built here or a later relaunch. Standalone payment is 50% to start and 50% when the apps are live, or after the resubmission limit is used.
+
+## Related site
+
+- [Dirty South’s App Lab](https://apps.dirtysouthagency.com/) — Android closed-testing signup for Dirty South apps, plus listing and custom Android build inquiries.

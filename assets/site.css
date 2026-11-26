@@ -546,3 +546,77 @@ main { display: block; }
   min-height: 44px;
   overflow-wrap: anywhere;
 }
+
+/* Inner service pages and home links to them */
+.crumbs {
+  margin: 0 0 0.85rem;
+  font-size: 0.92rem;
+  color: var(--muted);
+}
+.crumbs ol {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin: 0;
+  padding: 0;
+}
+.crumbs li:not(:last-child)::after {
+  content: "/";
+  margin-left: 0.35rem;
+  color: var(--muted);
+}
+.crumbs a { color: var(--rust-text); }
+.page-hero {
+  padding: 2.2rem 0 1.5rem;
+  background: var(--charcoal);
+  color: var(--cream);
+  border-bottom: 4px solid var(--rust);
+}
+.page-hero .eyebrow { color: var(--rust-on-dark); }
+.page-hero h1 { color: var(--cream); }
+.page-hero .lead,
+.page-hero p { color: var(--cream); }
+.page-hero .price-line { color: var(--cream); }
+.page-hero .btn-header {
+  border-color: var(--cream);
+  color: var(--cream);
+}
+.qa { margin: 0 0 1.6rem; max-width: 48rem; }
+.qa h2 { margin-bottom: 0.45em; }
+.more-link {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  font-weight: 700;
+}
+.footer-services {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.15rem 0.25rem;
+  margin: 0.5rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+.footer-services li {
+  display: inline-flex;
+  align-items: center;
+}
+.footer-services li:not(:last-child)::after {
+  content: "·";
+  margin: 0 0.55rem;
+  opacity: 0.6;
+}
+.site-nav a[aria-current="page"] {
+  color: var(--cream);
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+}
+#page-title, #q-cost, #q-included, #q-rankings, #q-ads, #q-promises, #q-payment, #q-care {
+  scroll-margin-top: 10.5rem;
+}
+@media (min-width: 40rem) {
+  #page-title, #q-cost, #q-included, #q-rankings, #q-ads, #q-promises, #q-payment, #q-care {
+    scroll-margin-top: 8.25rem;
+  }
+}
